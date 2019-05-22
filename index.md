@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## 最坏的五年级三班学生
 
-You can use the [editor on GitHub](https://github.com/Xiangrui2019/BadStudent.Github/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我最讨厌的学生
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你们简直就是祸害
 
-### Markdown
+我把你们公开在Github上，你就知道你有多么的嚣张
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+你有多么的坏
 
-```markdown
-Syntax highlighted code block
+你多么可恶
 
-# Header 1
-## Header 2
-### Header 3
+你多么讨厌
 
-- Bulleted
-- List
+我的忍耐已经到了极限了
 
-1. Numbered
-2. List
+你等着点
 
-**Bold** and _Italic_ and `Code` text
+到时候
 
-[Link](url) and ![Image](src)
-```
+你将成为臭名昭著的学生
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+你将成为臭名昭著的网红
 
-### Jekyll Themes
+我这一次，就是为了让你知道，你的罪行最终会得到报应的，后果就是你会臭名昭著
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xiangrui2019/BadStudent.Github/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+罪恶者:
+  - 李曼妮
+  - 李嘉欣
+  - 付子于
+  - 赵雅宁[通缉]
+  - 董一鑫
+  - 韩鹏举
+  - 韩一宣[通缉]
+  - 杜延玲
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+记录者:
+  - 张凯硕[骚神]
+  - 孔祥瑞[骚队成员]
+  
+
+
+# 这是我的发泄，请不要在意，各位技术专家们，仅仅只是给我的同学起一个警示作用，而不是有任何恶意
